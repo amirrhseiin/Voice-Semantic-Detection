@@ -1,5 +1,5 @@
 # Voice-Semantic-Detection
-## dataet:
+## dataset:
 https://github.com/mansourehk/ShEMO
 
 
