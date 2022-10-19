@@ -1,5 +1,5 @@
-# Voice-Semantic-Detection-
-#dataset: Sharif Emotional Speech Database https://github.com/mansourehk/ShEMO
+# Voice-Semantic-Detection
+##dataset: https://github.com/mansourehk/ShEMO
 
 This project aims to classify the speaker's emotions into five classes using audio files. We used MFCC and Chroma_cens as feature extractors.
 We designed an LSTM model with different optimizers, such as Adam and SGD.
